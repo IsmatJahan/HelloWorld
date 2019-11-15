@@ -4,7 +4,7 @@ public class Test {
 public static void main (String[] args) {// This a 2nd addition to my Hello World GIT/Jenkins/Eclipse tutorial
 	
 
-		for (int i=1; i<=18;i++){
+		for (int i=1; i<=3;i++){
 		System.out.println("Hello World....."+i);
 
 		}
